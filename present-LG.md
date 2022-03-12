@@ -6,7 +6,7 @@
 **Leonel Galizzi**<br>
 
 
-![Selfie](leon.jpeg) | width=250 
+![Selfie](leon.jpeg)
 
 ### Sobre mi
 
