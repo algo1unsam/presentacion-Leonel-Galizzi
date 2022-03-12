@@ -6,6 +6,8 @@
 **Leonel Galizzi**<br>
 
 
+![Selfie](leon.jpeg)
+
 ### Sobre mi
 
 Desde muy niñe uso computadoras, pero nunca me imaginé que me dedicaría a programar.<br>
